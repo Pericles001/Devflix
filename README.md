@@ -117,6 +117,6 @@ Github :
 
 Arsene Awounou  - <https://github.com/underscoDe>
 
-Pericles Adjovi - <https://github.com/>
+Pericles Adjovi - <https://github.com/Pericles001>
 
 Mikiyas Eyo     - <https://github.com/>
